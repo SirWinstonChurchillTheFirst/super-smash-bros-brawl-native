@@ -1,0 +1,12 @@
+{
+  "id": "RSBP01",
+  "title": "Super Smash Bros. Brawl",
+  "region": "Europe (PAL)",
+  "revision": 1,
+  "fifo_breakpoints": false,
+  "runtime": {
+    "repository": "https://github.com/SirWinstonChurchillTheFirst/wii-recomp.git",
+    "commit": "365a8af5ab6f91836f37cd0ebd25dc09f5ed19ef"
+  },
+  "title_folder": "00010000-52534250"
+}

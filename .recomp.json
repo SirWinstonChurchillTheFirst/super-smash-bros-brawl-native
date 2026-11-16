@@ -1,0 +1,36 @@
+{
+  "$schema": "https://recomp.fyi/schema/v1.json",
+  "game": "Super Smash Bros. Brawl",
+  "system": "Wii",
+  "type": "recomp",
+  "original": {
+    "region": "Europe",
+    "revision": "Rev 1",
+    "serial": "RSBP01"
+  },
+  "project": "Super Smash Bros. Brawl native PC build",
+  "status": "in-progress",
+  "targets": [
+    "Windows",
+    "Linux"
+  ],
+  "toolchain": "wii-recomp (static recompilation, PowerPC to C)",
+  "approach": "Static recompilation of the disc's own code on the player's PC; bring your own disc, no game files distributed.",
+  "maintainers": [
+    {
+      "name": "SirWinstonChurchillTheFirst",
+      "link": "https://github.com/SirWinstonChurchillTheFirst"
+    }
+  ],
+  "links": [
+    {
+      "label": "Runtime",
+      "url": "https://github.com/SirWinstonChurchillTheFirst/wii-recomp"
+    },
+    {
+      "label": "Ko-fi",
+      "url": "https://ko-fi.com/krogger"
+    }
+  ],
+  "notes": "Creates its save, plays the intro, and reaches the main menu, Group mode and the character select. About 59 fps on both machines. Tested on Windows 11 (RTX 3070 Ti) and on a Linux mini PC (Ryzen 3 4350GE, Vega 6) with scripted inputs; nothing here says the game is playable to the end. Built with AI assistance (Claude)."
+}

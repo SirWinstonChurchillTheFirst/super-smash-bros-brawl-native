@@ -1,0 +1,10 @@
+# Built from your own disc: never committed.
+build/
+play/
+*.rvz
+*.iso
+*.wbfs
+*.wia
+*.gcz
+*.ciso
+*.wrd
