@@ -32,5 +32,5 @@
       "url": "https://ko-fi.com/krogger"
     }
   ],
-  "notes": "Reaches the main menu, Classic and the Subspace Emissary. Known problem: the first fight never starts loading. Tested on Windows 11 by playing into the first real scene; on the Linux mini PC through the menus. Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
+  "notes": "Plays Events and Training fights (Battlefield, Delfino Plaza, Castle Siege) at 60 fps with fighters and stages drawn correctly. Tested on Windows 11 by playing into the first real scene; on the Linux mini PC through the menus. Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
 }
