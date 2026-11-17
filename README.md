@@ -74,7 +74,7 @@ Wii Remote held sideways (the default for Brawl's menus): arrow keys, 1 and 2; N
 ## How it's made
 
 - Runtime: [https://github.com/SirWinstonChurchillTheFirst/wii-recomp](https://github.com/SirWinstonChurchillTheFirst/wii-recomp) (branch `windows-port`, tested at
-  `bd252d728263`), a fork of [Zontex/wii-recomp](https://github.com/Zontex/wii-recomp) with
+  `25ee096b1378`), a fork of [Zontex/wii-recomp](https://github.com/Zontex/wii-recomp) with
   Windows support and the fixes this game needed. GPL-3.0-or-later.
 - Hardware behaviour follows [Dolphin](https://dolphin-emu.org) where noted in the runtime's
   CREDITS.md.
