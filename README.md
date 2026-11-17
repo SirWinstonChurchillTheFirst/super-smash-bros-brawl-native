@@ -20,7 +20,7 @@ storage, controllers) is provided by the [wii-recomp runtime](https://github.com
 
 Tested with **RSBP01** (Europe (PAL), revision 1).
 
-Plays Events and Training fights (Battlefield, Delfino Plaza, Castle Siege) at 60 fps with fighters and stages drawn correctly. Tested on Windows 11 by playing into the first real scene; on the Linux mini PC through the menus. Nothing here says the game is playable to the end.
+Plays Events and Training fights (Battlefield, Delfino Plaza, Castle Siege) at 60 fps with fighters and stages drawn correctly. Tested on Windows 11 and on the Linux mini PC by playing into the first real scene (mini PC: an Event fight on Delfino Plaza, 59.6 fps, one hitch of 0.1 s). Nothing here says the game is playable to the end.
 
 Only what is written here has been tested. It has not been played to the end. Other regions
 or revisions may work but are untested.
