@@ -6,7 +6,7 @@
   "fifo_breakpoints": false,
   "runtime": {
     "repository": "https://github.com/SirWinstonChurchillTheFirst/wii-recomp.git",
-    "commit": "25ee096b1378eec22fc93fbb9afe96d0ae827af7"
+    "commit": "3367ea40770084c8e669f111211444a91cdbfe96"
   },
   "title_folder": "00010000-52534250"
 }

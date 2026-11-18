@@ -32,5 +32,5 @@
       "url": "https://ko-fi.com/krogger"
     }
   ],
-  "notes": "Plays Events and Training fights (Battlefield, Delfino Plaza, Castle Siege) at 60 fps with fighters and stages drawn correctly. Tested on Windows 11 and on the Linux mini PC by playing into the first real scene (mini PC: an Event fight on Delfino Plaza, 59.6 fps, one hitch of 0.1 s). Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
+  "notes": "Plays Events and Training fights (Battlefield, Delfino Plaza, Castle Siege) at 60 fps with fighters and stages drawn correctly. Tested on Windows 11 and on the Linux mini PC by playing into the first real scene (mini PC: an Event fight on Delfino Plaza, 59.6 fps, one hitch of 0.1 s). With the current runtime version the game was started and run through its menus again on the mini PC (no stops, frame times as before); the scene named here was played with the version before. Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
 }
